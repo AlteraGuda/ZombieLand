@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Math operations with safety checks that throw on error",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeMath",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/github/ConsenSysMesh/openzeppelin-solidity/contracts/math/SafeMath.sol": "SafeMath"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/github/ConsenSysMesh/openzeppelin-solidity/contracts/math/SafeMath.sol": {
+			"keccak256": "0x908a56ca834fb4f56179d644ebe05918e827ce31eb3e1358f8c39eedd4e7104b",
+			"urls": [
+				"bzz-raw://d82c4f94701d4423b1025f8f303b6d873faff499acd19725221ad45a90d3bdf8",
+				"dweb:/ipfs/QmT9DtBvgkdPnfQz4kjs2726gvQ9AYvj1c2V6TXVCdqgKq"
+			]
+		}
+	},
+	"version": 1
+}
